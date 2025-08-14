@@ -1,0 +1,15 @@
+{
+    "student_id": "aluno123",
+    "exam_domains": [
+      "https://ava.anchieta/",
+      "https://ava.anchieta.br/",
+      "https://sua-url-de-prova/"
+    ],
+    "poll_interval_sec": 1.0,
+    "server_url": "http://127.0.0.1:5000/alerta",
+    "browsers_allowed": ["chrome.exe", "msedge.exe"],
+    "chrome_debug_address": "127.0.0.1:9222",
+    "screenshot_on_violation": false,
+    "log_file": "monitor.log"
+  }
+  
