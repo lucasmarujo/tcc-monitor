@@ -3,3 +3,4 @@ pywin32
 requests
 selenium==4.22.0
 flask
+psutil
